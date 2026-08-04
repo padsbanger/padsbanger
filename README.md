@@ -22,5 +22,11 @@ for the first pass; do not share credentials or confidential code.
 - [Recent merged delivery: moshcoder/moshcode#32](https://github.com/moshcoder/moshcode/pull/32)
 - [Full engineering portfolio](https://michal-lach.pl/)
 
+## Open agent skill
+
+- [Verify Paid Bounties](./skills/verify-paid-bounties/SKILL.md) — check funding,
+  eligibility, deadlines, legal terms, payout friction, and expected value before
+  spending time on a bounty or paid issue.
+
 Core stack: React · Next.js · TypeScript · JavaScript · GraphQL · Redux Toolkit ·
 Zustand · Tailwind CSS · Jest · Vitest · Docker

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify Paid Bounties"
+  short_description: "Verify bounty eligibility before doing work"
+  default_prompt: "Use $verify-paid-bounties to verify this bounty before I spend time on it."
