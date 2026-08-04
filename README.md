@@ -14,6 +14,7 @@ rescue. The handoff is a pull request or patch with tests or explicit verificati
 notes.
 
 - [Service scope and current availability](https://michal-lach.pl/services/?ref=github-profile)
+- [Open a public fixed-scope request](https://github.com/padsbanger/padsbanger.github.io/issues/new?template=fixed-scope-request.yml&title=%5BScope%5D%20) — no credentials or confidential details
 - [Recent merged delivery: moshcoder/moshcode#32](https://github.com/moshcoder/moshcode/pull/32)
 - [Full engineering portfolio](https://michal-lach.pl/)
 
