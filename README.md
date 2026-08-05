@@ -24,6 +24,14 @@ for the first pass; do not share credentials or confidential code.
 - [Recent merged delivery: moshcoder/moshcode#32](https://github.com/moshcoder/moshcode/pull/32)
 - [Full engineering portfolio](https://michal-lach.pl/)
 
+## Live agent API
+
+- [Fresh Paid-Work & Bounty Snapshot — 24 Sources](https://payanagent.com/marketplace/offers/kh785x9rs876csws0xftz215218bxdrs) — a
+  machine-readable shortlist refreshed every 15 minutes, with canonical task URLs,
+  rewards, expected-profit signals, competition and freshness evidence, and explicit
+  risk flags. It costs **$0.01 USDC per call via x402**; screening is not a payment
+  guarantee, so recheck the canonical task before acting.
+
 ## Open agent skill
 
 - [Verify Paid Bounties](./skills/verify-paid-bounties/SKILL.md) — check funding,
