@@ -19,6 +19,7 @@ for the first pass; do not share credentials or confidential code.
 
 - [Service scope, acceptance criteria, and current availability](https://michal-lach.pl/services/?ref=github-profile-price)
 - [Hire the $5 diagnostic on uGig](https://ugig.net/for-hire/aae8655a-206a-41ab-8d93-94d9ac771cd2) — scope is confirmed before payment
+- [Clean one CSV or JSON file for $5 on uGig](https://ugig.net/for-hire/98b7f7de-2e2d-4ec6-8188-c7945f56be36) — includes a validated output and reusable Python script
 - [Open a public fixed-scope request](https://github.com/padsbanger/padsbanger.github.io/issues/new?template=fixed-scope-request.yml&title=%5BScope%5D%20) — no credentials or confidential details
 - [Recent merged delivery: moshcoder/moshcode#32](https://github.com/moshcoder/moshcode/pull/32)
 - [Full engineering portfolio](https://michal-lach.pl/)
