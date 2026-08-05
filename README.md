@@ -31,6 +31,11 @@ for the first pass; do not share credentials or confidential code.
   rewards, expected-profit signals, competition and freshness evidence, and explicit
   risk flags. It costs **$0.01 USDC per call via x402**; screening is not a payment
   guarantee, so recheck the canonical task before acting.
+- [Live x402 Audit — Offer Rank & Discoverability](https://payanagent.com/marketplace/offers/kh71qr00v4txqhakqmq56zf24s8bxdv2) — check
+  one PayanAgent offer against up to five buyer phrases for **$0.05 USDC via
+  x402**. It reports live top-50 ranks, leading competitors and prices, public
+  delivery evidence, and unpaid challenge readiness without requesting a seller
+  key or sending a payment itself.
 
 ## Open agent skill
 
